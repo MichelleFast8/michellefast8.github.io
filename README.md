@@ -1,8 +1,7 @@
 ## About Me
 I am a Computer Science Master's student at Western Washington University, currently researching the application of machine learning to the field of climate science. I earned by B.S. in Computer Science from WWU in 2024, and graduate with my M.S. in 2025. Stay on the lookout for a paper on ML application for climate science, authored by me, in the near future!
 
-## Resume / CV
-### Education
+## Education
 **M.S., Computer Science**, *Western Washington University* — *2025*
 - GPA: 4.0
   
@@ -10,7 +9,7 @@ I am a Computer Science Master's student at Western Washington University, curre
 - GPA: 3.95
 - Outstanding Student Award
 
-### Experience
+## Experience
 **Research Assistant**, *HutchResearch Machine Learning* — *2023 - Present*
 - Collaborate with team members to create, train, and tune a deep learning model that emulates Earth System Models, allowing climate scientists to obtain data in minutes rather than weeks
 - Exchange ideas, address concerns, and ask questions at meetings with collaborators from Joint Global Change Research Institute (JGCRI) and Pacific Northwest National Laboratory (PNNL)
@@ -26,7 +25,7 @@ I am a Computer Science Master's student at Western Washington University, curre
 - Explore program performance with thorough unit testing and probing GraphQL queries
 - Present work over the internship to many stakeholders, including the Senior Director of SWE
 
-### Technical Skills
+## Technical Skills
 - **Languages**: Python, Java, Kotlin, C, SQL, HTML, Javascript, CSS, Markdown
 - **Tools**: Git, GitHub, Tailwind, Weights & Biases
 - **IDEs**: vim, VS Code, IntelliJ, Eclipse
