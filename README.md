@@ -31,11 +31,11 @@ I am a Computer Science Master's student at Western Washington University, curre
 - **IDEs**: vim, VS Code, IntelliJ, Eclipse
 
 ## Projects
-**Multi-ESM Emulation**: Train a generative diffusion model on several different Earth-System Models’ (ESM) data to emulate each of them. At inference time, the model is given an emission behavior, starting day, and target ESM with which it generates predictions for Earth’s future climate.
+**Multi-ESM Emulation**: Train a generative diffusion model on several different Earth-System Models’ (ESM) data to emulate each of them. At inference time, the model is given an emission behavior, starting day, and target ESM with which it generates predictions for Earth’s future climate. This project has been made possible by collaborators at Pacific Northwest National Laboratory and coworkers at HutchResearch.
 
-**DynaDoc**: Create a website documenting tools and resources available to external partners of Expedia Group. Hand-craft the website appearance and behavior with HTML, Tailwind, and Javascript, having no prior experience with front-end development. Delivered an easily modular, fully-functional website with pleasant UI.
+**DynaDoc**: Create a website documenting tools and resources available to external partners of Expedia Group. Hand-craft the website appearance and behavior with HTML, Tailwind, and Javascript, having no prior experience with front-end development. Delivered a fully-functional website with pleasant UI that is easily modular, all thanks to wonderful mentors at Expedia Group.
 
-**Demographics & Standardized Testing**: Demographics & Standardized Testing – Using Python and associated libraries, train a linear regression model to analyze the effects that income level, gender, disability status, and more have on the performance of Washington State students’ standardized testing.
+**Demographics & Standardized Testing**: Using Python and associated libraries, train a linear regression model to analyze the effects that income level, gender, disability status, and more have on the performance of Washington State students’ standardized testing. I was curious about the true impact of these attributes, and it was my first dive into machine learning!
 
 ## Contact Information
 Please don't hesitate to contact me at: michellefast8@gmail.com
