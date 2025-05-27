@@ -31,7 +31,7 @@ I am a Computer Science Master's student at Western Washington University, curre
 - **IDEs**: vim, VS Code, IntelliJ, Eclipse
 
 ## Projects
-**Multi-ESM Emulation**: Train a generative diffusion model on several different Earth-System Models’ (ESM) data to emulate each of them. At inference time, the model is given an emission behavior, starting day, and target ESM with which it generates predictions for Earth’s future climate. This project has been made possible by collaborators at Pacific Northwest National Laboratory and coworkers at HutchResearch.
+**[Multi-ESM Emulation](projects/multi_esm.md)**: Train a generative diffusion model on several different Earth-System Models’ (ESM) data to emulate each of them. At inference time, the model is given an emission behavior, starting day, and target ESM with which it generates predictions for Earth’s future climate. This project has been made possible by collaborators at Pacific Northwest National Laboratory and coworkers at HutchResearch.
 
 **DynaDoc**: Create a website documenting tools and resources available to external partners of Expedia Group. Hand-craft the website appearance and behavior with HTML, Tailwind, and Javascript, having no prior experience with front-end development. Delivered a fully-functional website with pleasant UI that is easily modular, all thanks to wonderful mentors at Expedia Group.
 
