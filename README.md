@@ -1,5 +1,5 @@
 ## About Me
-I am a Computer Science Master's student at Western Washington University, currently researching the application of machine learning to the field of climate science. I earned by B.S. in Computer Science from WWU in 2024, and graduate with my M.S. in 2025. Stay on the lookout for a paper on ML application for climate science, authored by me, in the near future!
+I am a Software Development Engineer at Expedia Group, currently learning and working in Rust. I earned by B.S. in Computer Science from WWU in 2024, and M.S. in 2025. An informal introduction, I love volleyball, backpacking, and, recently, knitting!
 
 ## Education
 **M.S., Computer Science**, *Western Washington University* — *2025*
@@ -10,7 +10,11 @@ I am a Computer Science Master's student at Western Washington University, curre
 - Outstanding Student Award
 
 ## Experience
-**Research Assistant**, *HutchResearch Machine Learning* — *2023 - Present*
+**Software Development Engineer**, *Expedia Group* - *2025 - Present*
+- Maintain and optimize the router that handles all Expedia traffic using Rust
+- Investigate how caching affects the performance of handling bot traffic, using Python to visualize overhead, latency, and resource usage
+
+**Research Assistant**, *HutchResearch Machine Learning* — *2023 - 2025*
 - Collaborate with team members to create, train, and tune a deep learning model that emulates Earth System Models, allowing climate scientists to obtain data in minutes rather than weeks
 - Exchange ideas, address concerns, and ask questions at meetings with collaborators from Joint Global Change Research Institute (JGCRI) and Pacific Northwest National Laboratory (PNNL)
 - Analyze deep learning research papers individually and in weekly reading groups
@@ -34,6 +38,8 @@ I am a Computer Science Master's student at Western Washington University, curre
 **[Multi-ESM Emulation](projects/multi_esm.md)**: Train a generative diffusion model on several different Earth-System Models’ (ESM) data to emulate each of them. At inference time, the model is given an emission behavior, starting day, and target ESM with which it generates predictions for Earth’s future climate. This project has been made possible by collaborators at Pacific Northwest National Laboratory and coworkers at HutchResearch.
 
 **[DynaDoc](projects/dynadoc.md)**: Create a website documenting tools and resources available to external partners of Expedia Group. Hand-craft the website appearance and behavior with HTML, Tailwind, and Javascript, having no prior experience with front-end development. Delivered a fully-functional website with pleasant UI that is easily modular, all thanks to wonderful mentors at Expedia Group.
+
+**[Automated Analysis of Calcium Diffusion Dynamics](https://github.com/EulerFrog/Project-8)** This project focuses on automating the analysis of calcium diffusion dynamics in mouse embryo fibroblast cells. By introducing ATP to trigger calcium release, fluorescence microscopy data is captured and processed to quantify calcium movement. The tool automates the generation of fluorescence decay plots and GIFs, providing an efficient alternative to manual data processing. The program, written in Python, is designed to be user-friendly for biology students with minimal programming experience. It processes video files (TIFF) and corresponding region of interest (ROI) data, performing error checks and outputting visualizations and data files for further analysis.
 
 **Demographics & Standardized Testing**: Using Python and associated libraries, train a linear regression model to analyze the effects that income level, gender, disability status, and more have on the performance of Washington State students’ standardized testing. I was curious about the true impact of these attributes, and it was my first dive into machine learning!
 
