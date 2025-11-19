@@ -2,12 +2,9 @@
 I am a Software Development Engineer at Expedia Group, currently learning and working in Rust. I earned by B.S. in Computer Science from WWU in 2024, and M.S. in 2025. An informal introduction, I love volleyball, backpacking, and, recently, knitting!
 
 ## Education
-**M.S., Computer Science**, *Western Washington University* — *2025*
-- GPA: 4.0
+**M.S., Computer Science**, *Western Washington University* — *2025*, 4.0 GPA
   
-**B.S., Computer Science**, *Western Washington University* — *2024*
-- GPA: 3.95
-- Outstanding Student Award
+**B.S., Computer Science**, *Western Washington University* — *2024*, 3.95 GPA, Outstanding Student Award
 
 ## Experience
 **Software Development Engineer**, *Expedia Group* - *2025 - Present*
